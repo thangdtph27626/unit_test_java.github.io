@@ -131,4 +131,4 @@ Khi chạy test, nó sẽ kiểm tra tất cả các Expected và Actual, nó ch
 
 Khi có sai sót xảy ra, nó sẽ hiện thông báo lên màn hình là test nào sai và sai cái gì.
 
-
+tham khảo thêm về junit [tại đây](https://junit.org/junit5/docs/current/user-guide/)
